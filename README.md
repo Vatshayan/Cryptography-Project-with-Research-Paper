@@ -1,4 +1,5 @@
-# Cryptography-Project-with-Research-project
+##  Design and Analysis of Cryptographic Technique for Communication System
+
 B.tech Final Year Project on Secure Communication through Cryptography system
 
 👉 This Project has been done in 8th Sem of Final year of my B.tech Computer Science Engineering 2020.
@@ -17,16 +18,18 @@ You can view and read my Research paper at- https://ieeexplore.ieee.org/document
 ## Hi there 👋
 You Can use this Beautiful Project for your college Project and get good marks too.
 
-Email me Now vatshayan007@gmail.com for this Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project. 💌 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
+Email me Now **vatshayan007@gmail.com** for this Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project. 
+
+💌 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
 
 ### HOW TO RUN THE PROJECT-
-⚡ Email me at vatshayan007@gmail.com to get a detailed Guide report to run the project with source Code.
+⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
 
 ### INTERNSHIP
 🌟 Internship oppurtunity for everyone - https://github.com/Vatshayan/INTERNSHIP
 
 ### HOW TO REACH ME
 
-💬 Gmail: vatshayan007@gmail.com
+💬 Gmail: **vatshayan007@gmail.com**
 
 Happy to Help you😄😅
